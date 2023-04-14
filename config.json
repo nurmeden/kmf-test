@@ -1,0 +1,12 @@
+{
+    "database": {
+      "host": "localhost",
+      "port": 1433,
+      "name": "TEST",
+      "username": "kursUser",
+      "password": "kursPswd2"
+    },
+    "server": {
+      "port": 8080
+    }
+  }
