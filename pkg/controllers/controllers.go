@@ -3,8 +3,8 @@ package controllers
 import (
 	"database/sql"
 	"fmt"
-	"kmf-test/internal/configs"
-	"kmf-test/internal/handlers"
+	"kmf-test/pkg/configs"
+	"kmf-test/pkg/handlers"
 	"log"
 	"net/http"
 

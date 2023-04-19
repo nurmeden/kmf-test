@@ -6,8 +6,8 @@ import (
 	"encoding/xml"
 	"fmt"
 	"io/ioutil"
-	"kmf-test/internal/configs"
-	"kmf-test/internal/models"
+	"kmf-test/pkg/configs"
+	"kmf-test/pkg/models"
 	"log"
 	"net/http"
 
